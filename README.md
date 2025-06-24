@@ -1,5 +1,5 @@
 # Olá, meu nome é Helder de Lima Dantas Neto
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=3DDC84&width=435&lines=Seja+bem-vindo+ao+meu+perfil+do+Github!;Sou+um+dev+apaixonado+por+tecnologia!;Fique+a+vontade+para+explorar+meu+perfil!) 
+![Typing SVG](<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+perfil+no+Github;Sou+um+QA+por+tecnologia+e+inova%C3%A7%C3%A3o;Fique+a+vontade+para+ver+meu+perfil+e+meus+projetos!!!" alt="Typing SVG" /></a>) 
 
 ## Sobre mim  
 - Curso Engenharia de Software na Universidade Tecnológica Federal do Paraná em Cornélio Procópio
